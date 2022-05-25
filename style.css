@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Fredoka, sans-serif;
+}
+header{
+    color: rgb(228, 33, 95);
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
